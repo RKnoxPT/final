@@ -7,6 +7,6 @@ main:
   - title: "Arquivo"
     url: /arquivo/
   - title: "Categorias"
-    url: /categorias/
+    url: /categories/
   - title: "Sitemap"
     url: /sitemap/
