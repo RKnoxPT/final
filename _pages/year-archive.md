@@ -1,6 +1,6 @@
 ---
 title: "Arquivo"
-permalink: /year-archive/
+permalink: /arquivo/
 layout: posts
 author_profile: true
 ---
