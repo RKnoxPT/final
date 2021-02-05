@@ -5,8 +5,8 @@ main:
   - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Arquivo"
-    url: /year-archive/
+    url: /arquivo/
   - title: "Categorias"
-  #   url: /collection-archive/
+    url: /categorias/
   - title: "Sitemap"
     url: /sitemap/
