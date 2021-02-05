@@ -1,6 +1,6 @@
 ---
 title: "Categoria:"
 layout: categories
-permalink: /categories/
+permalink: /categorias/
 author_profile: true
 ---
